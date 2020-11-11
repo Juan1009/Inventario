@@ -1,2 +1,1 @@
-# Inventario
-Created with CodeSandbox
+# Git_React
